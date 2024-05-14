@@ -23,3 +23,27 @@ body{
 .titulo-principal{
     font-family: var(--fonte-titulo);
 }
+body{
+    background-color: var(--marelo);
+    color: var(--amarelo);
+    font-family: var(--fonte-texto);
+
+}
+
+.titulo-principal{
+    font-family: var(--azul);
+
+}
+
+.conteudo-titulo{
+    text-align: center;
+    margin-top: 80px;
+
+}
+
+.conteudo-senha{
+    background-color: var(--verde-claro);
+    
+    
+}
+    
